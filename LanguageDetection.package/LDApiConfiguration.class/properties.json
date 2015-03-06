@@ -1,0 +1,16 @@
+{
+	"category" : "LanguageDetection-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"apiKey",
+		"host",
+		"apiVersion" ],
+	"name" : "LDApiConfiguration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

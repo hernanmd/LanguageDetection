@@ -1,0 +1,14 @@
+{
+	"category" : "LanguageDetection-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HernanMoralesDurand 2/15/2015 06:15",
+	"instvars" : [
+		 ],
+	"name" : "LDApiResultObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

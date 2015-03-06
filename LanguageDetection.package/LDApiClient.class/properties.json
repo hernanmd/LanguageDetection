@@ -1,0 +1,16 @@
+{
+	"category" : "LanguageDetection-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HernanMoralesDurand 2/26/2015 21:33",
+	"instvars" : [
+		"configuration",
+		"queryStream",
+		"result" ],
+	"name" : "LDApiClient",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
